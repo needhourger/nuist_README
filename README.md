@@ -20,37 +20,37 @@
 ---
 # 常见问题索引
 
-* [学校地理位置怎样，是否偏僻](##学校地理位置怎样，是否偏僻)
+* [学校地理位置怎样，是否偏僻](#学校地理位置怎样，是否偏僻)
 
-* [消费水平怎样，周围配套设施怎样](##消费水平怎样，周围配套设施怎样)
+* [消费水平怎样，周围配套设施怎样](#消费水平怎样，周围配套设施怎样)
 
-* [关于宿舍](##关于宿舍)
+* [关于宿舍](#关于宿舍)
     
-    * [几人间](###几人间)
+    * [几人间](#几人间)
 
-    * [宿舍怎么分](###宿舍怎么分)
+    * [宿舍怎么分](#宿舍怎么分)
 
-    * [洗衣机](###洗衣机)
+    * [洗衣机](#洗衣机)
 
-    * [生活及饮用水](###生活及饮用水)
+    * [生活及饮用水](#生活及饮用水)
 
-    * [洗澡](###洗澡)
+    * [洗澡](#洗澡)
 
-    * [空调](###空调)
+    * [空调](#空调)
 
-    * [关于电费及电器](###关于电费及电器)
+    * [关于电费及电器](#关于电费及电器)
 
-* [关于教室](##关于教室)
+* [关于教室](#关于教室)
 
-* [吃的~(｡･∀･)ﾉﾞ](##吃的~(｡･∀･)ﾉﾞ)
+* [吃的~(｡･∀･)ﾉﾞ](#吃的~(｡･∀･)ﾉﾞ)
 
-* [关于电脑](##关于电脑)
+* [关于电脑](#关于电脑)
 
-* [学校社团](##学校社团)
+* [学校社团](#学校社团)
 
-* [军训](##军训)
+* [军训](#军训)
 
-* [问题尚未解决](##问题尚未解决)
+* [问题尚未解决](#问题尚未解决)
 
 
 ----
@@ -217,15 +217,9 @@
 
 *以下图片有的是食堂的，也有的是外卖，还有的是周边的商圈的（我是从某群顺来哒(～￣▽￣)～）反正都是在学校可以吃到的，至于怎么吃到，需要你发挥一颗吃货的心！也欢迎咨询某群吃货担当*
 
-<img src="./image/food0.jpg" width=250 height=250>
-<img src="./image/food1.jpg" width=250 height=250>
-<img src="./image/food2.jpg" width=250 height=250>
-<img src="./image/food3.jpg" width=250 height=250>
-<img src="./image/food4.jpg" width=250 height=250>
-<img src="./image/food5.jpg" width=250 height=250>
-<img src="./image/food6.jpg" width=250 height=250>
-<img src="./image/food7.jpg" width=250 height=250>
-<img src="./image/food8.jpg" width=250 height=250>
+<img src="./image/food0.jpg" width=250 height=250><img src="./image/food1.jpg" width=250 height=250><img src="./image/food2.jpg" width=250 height=250>
+<img src="./image/food3.jpg" width=250 height=250><img src="./image/food4.jpg" width=250 height=250><img src="./image/food5.jpg" width=250 height=250>
+<img src="./image/food6.jpg" width=250 height=250><img src="./image/food7.jpg" width=250 height=250><img src="./image/food8.jpg" width=250 height=250>
 
 *9图流~（还有好多没有放出来呢）*
 
