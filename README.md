@@ -12,7 +12,7 @@
 
 <img src="./image/temp.png" width=200 height=270/><img src="./image/nuist.jpg" width=200 height=270/>
 
-**作者：cc **
+**作者：cc**
 **时间：2018.7.9**
 **版本：1.2.0**
 
